@@ -1,0 +1,21 @@
+.foot{
+    position: fixed;
+    bottom: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(249, 188, 21);
+    padding: 10px;
+    text-shadow: 0 6px 8px rgba(0,0,0,0.4);
+}
+.item{
+    margin: 50px;
+}
+.foot:hover{
+    background-color: rgb(255, 242, 0);
+    filter: brightness(100%);
+}
+.item:hover{
+    filter: brightness(150%);
+}

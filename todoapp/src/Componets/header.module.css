@@ -1,0 +1,11 @@
+.head {
+    background-color: gold;
+    text-align: center;
+    font-weight: bold;
+    height: 70px;
+    font-size: 60px;
+    padding: 20px;
+    color: chocolate;
+    box-shadow: 0 4px 6px 0 rgba(255, 242, 0, 0.7);
+    text-shadow: 2px 2px 4px #000000;
+}

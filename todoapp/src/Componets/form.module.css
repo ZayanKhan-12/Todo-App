@@ -1,0 +1,38 @@
+.todoform{
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 8px 6px rgba(0,0,0,0.1);
+}
+.todoinput{
+    display: block;
+    width: 100%;
+    border: none;
+    color: black;
+    font-size: 16px;
+}
+.todoinput:focus{
+    outline: none;
+}
+.todobut{
+    display: inline-block;
+    border: none;
+    border-radius: 16px;
+    background-color: khaki;
+    padding: 9px 13px;
+    color: white;
+    box-shadow: 0 8px 10px rgba(255, 242, 0, 0.3);
+    cursor: pointer;
+}
+.todobut:hover{
+    background-color: gold;
+    filter: brightness(100%);
+}
+.align{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

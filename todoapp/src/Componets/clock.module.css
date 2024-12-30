@@ -1,0 +1,16 @@
+.clock{
+    font-size: 25px;
+    color: #333;
+    font-weight: bold;
+    margin-top: 50px;
+    float: left;
+    padding: 60px;
+    border-radius: 9px;
+    background-color: #809378;
+    background-position: 5px 8px;
+    background-size: cover;
+}
+.clock:hover{
+    background-color: #4cfa01;
+    filter: brightness(300%);
+}
